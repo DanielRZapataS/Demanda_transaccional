@@ -1,2 +1,2 @@
 # Demanda_transaccional
-Analisis historico y pronostico de tasas de ocupación en oficinas bancarias 
+Análisis histárico y pronástico de tasas de ocupación en oficinas bancarias.

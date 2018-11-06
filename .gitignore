@@ -2,6 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+.RDta
+.png
+.csv
 Logs/
 Data/
-Results/
+Results/out/
+Results/out_month/
+Results/Plots/
+Results/Tables/
